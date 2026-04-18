@@ -18,13 +18,13 @@ The goal of this project is to perform an unsupervised clustering analysis on a 
 ## 💡 Key Business Insights (The 3 Personas)
 Based on the K-Means algorithm, the customer base naturally divides into three distinct tiers:
 
-* **Segment 2 ("The Cash Cows"):** High-earning professionals (~$76k) with no children. They have massive discretionary income and represent the highest average spend (~$1,356). **Action:** Target with premium, high-margin products.
-* **Segment 0 ("The Middle Class"):** Older families (Avg Age: 61) with a solid income (~$57k). However, the presence of children (1.2 avg) acts as a hard cap on their discretionary spending (~$747). **Action:** Target with family-oriented bundles and loyalty rewards.
-* **Segment 1 ("The Budget Shoppers"):** Families strictly maximizing utility. They have the lowest income (~$34k), the highest number of dependents, and barely spend capital with the brand (~$91). **Action:** Exclude from expensive marketing campaigns; target only with deep-discount clearances.
+* **Segment 2 ("The Cash Cows"):** High-earning professionals ($76k) with no children. They have massive discretionary income and represent the highest average spend ($1,356). **Action:** Target with premium, high-margin products.
+* **Segment 0 ("The Middle Class"):** Older families (Avg Age: 61) with a solid income ($57k). However, the presence of children (1.2 avg) acts as a hard cap on their discretionary spending ($747). **Action:** Target with family-oriented bundles and loyalty rewards.
+* **Segment 1 ("The Budget Shoppers"):** Families strictly maximizing utility. They have the lowest income ($34k), the highest number of dependents, and barely spend capital with the brand ($91). **Action:** Exclude from expensive marketing campaigns; target only with deep-discount clearances.
 
 ## 📈 Visualizations
 ### 1. Identifying the Clusters (The Elbow Method)
 ![Elbow Curve](images/elbow_graph.png)
 
 ### 2. Validating the Segments (t-SNE Projection)
-![t-SNE Clusters](images/TSNE_Plot.png)
+![t-SNE Clusters](images/tsne_plot.png)
