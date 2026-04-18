@@ -27,4 +27,4 @@ Based on the K-Means algorithm, the customer base naturally divides into three d
 ![Elbow Curve](images/elbow_graph.png)
 
 ### 2. Validating the Segments (t-SNE Projection)
-![t-SNE Clusters](images/tsne_plot.png)
+![t-SNE Clusters](images/tsne_plot_.png)
